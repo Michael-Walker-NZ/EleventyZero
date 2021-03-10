@@ -1,6 +1,6 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.<br /> Made by <a href="https://twitter.com/philhawksworth">Phil</a> for <a href="https://twitter.com/philhawksworth">Phil</a>, but perhaps you might also find it useful.
+title: EleventyZero
+subtitle: A project scaffolded for Mike to start building a site with Eleventy.<br /> Originall made by <a href="https://twitter.com/philhawksworth">Phil</a> for Me now!
 layout: layouts/base.njk
 ---
 
