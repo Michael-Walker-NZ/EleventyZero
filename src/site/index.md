@@ -1,6 +1,6 @@
 ---
 title: EleventyZero
-subtitle: A project scaffolded for Mike to start building a site with Eleventy.<br /> Originall made by <a href="https://twitter.com/philhawksworth">Phil</a> for Me now!
+subtitle: A project scaffolded for Mike to start building a site with Eleventy.
 layout: layouts/base.njk
 ---
 
